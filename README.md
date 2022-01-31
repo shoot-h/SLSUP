@@ -35,4 +35,4 @@
     There are 4 samples in the package.  
     The model for each sample is described in Chapter 5 of the following paper.
 
-    Shu Hashimoto，”離散事象システムのスーパーバイザ制御理論におけるLTLモデリングに関する研究”，2021
+    Shu Hashimoto，”Linear Temporal Logic Modeling for Supervisory Control of Discrete-Event Systems”，2021
