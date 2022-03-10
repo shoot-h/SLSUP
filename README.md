@@ -1,4 +1,5 @@
-# This is a tool to create a supervisor using LTL expressions.
+# SLSUP
+- This is a tool to create a supervisor using LTL expressions.
 
  1. compiling
 
